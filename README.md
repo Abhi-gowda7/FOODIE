@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-# FOODIE-main
-=======
+# FOODIE
+
 
